@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica, sans-FileSystemWritableFileStream;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.new-amsterdam-regular {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    background-color: dodgerblue;
+    color: white;
+    width: 100%;
+    padding: 1px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 20px;
+}
+
+.topnav {
+    overflow: hidden;
+    border: none;
+    background-color: slateblue;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Staatliches", sans-serif;
+}
+
+.topnav a:hover {
+    background-color: dodgerblue;
+    color: slateblue;
+}
+
+.topnav a.home {
+    background-color: rgb(255, 71, 71);
+}
+.homeback {
+    background-color: rgb(255, 71, 71);
+}
+
+.topnav a.about {
+    background-color: orange;
+}
+.aboutback {
+    background-color: orange;
+}
+
+.topnav a.creations {
+    background-color: mediumseagreen;
+}
+.creationsback {
+    background-color: mediumseagreen;
+}

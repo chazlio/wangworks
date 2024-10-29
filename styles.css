@@ -48,15 +48,18 @@ header a:hover {
 }
 
 .claire:hover {
-    color: #f5d547
+    color: #f5d547;
+    cursor: wait;
 }
 
 .wang:hover {
-    color: #1446a0
+    color: #1446a0;
+    cursor: wait;
 }
 
-.workbar a:hover {
+.workbar:hover {
     color: #db3069;
+    cursor: wait;
 }
 
 footer {
